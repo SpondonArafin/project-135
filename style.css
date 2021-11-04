@@ -1,0 +1,22 @@
+.copy_right_footer {
+    background-color: crimson;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+     }
+    
+     #start,#number_of_objects,#start {
+    font-size: 18px;
+     }
+    
+    
+    
+     #status, #number_of_objects   {
+    font-size: 18px;
+     }
+    
+     body {
+    background-size: cover;
+      }
