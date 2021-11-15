@@ -1,39 +1,25 @@
-.copy_right_footer {
-  background-color: crimson;
-  position: fixed;
-  bottom: 0;
-  text-align: center;
-  width: 100%;
-  line-height: 2;
-   }
-  
-   #start,#number_of_objects,#start {
-  font-size: 18px;
-   }
-  
-  
-  
-   #status, #number_of_objects   {
-  font-size: 18px;
-   }
-  
-   body {
-  background-size: cover;
-    }
-  
-    .heading
-  {
-  font-size: 23px;
-  width: 100%;
-  margin: 0px;
-  }
-  
-   
-  canvas
-  {
-  border:2px solid white;
-  border-radius: 10px;
-  margin-top: 130px;
-  box-shadow: 5px 5px 5px white;
-  }
-  
+body
+{
+background-position: center;
+background-size: cover;
+background-color: crimson;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 180px;
+}
